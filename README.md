@@ -1,5 +1,7 @@
 # 🏠 Global Airbnb Performance Dashboard – Power BI Project
 DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+HERE IS THE FULL POWER BI DASHBOARD OVERVIEW - https://tinyurl.com/Airbnb-Per-Dashboard
+
 ## Overview
 This project focuses on analyzing global Airbnb performance data using Power BI to uncover business insights related to listings, hosts, city-wise market share, customer reviews, ratings, seasonality, and trust indicators. The dashboard provides an interactive and visual representation of Airbnb trends across multiple cities and property types to support data-driven decision-making.
 
